@@ -1,0 +1,9 @@
+{
+    "is_notify_login_enabled": false,
+    "is_bot_in_maintenance_mode": false,
+    "admins": [],
+    "tag_alert_paid": true,
+    "porn_paid": true,
+    "joinLeaveFast_paid": true,
+    "NoProfilePicture_paid": true
+}
