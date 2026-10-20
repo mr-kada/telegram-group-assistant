@@ -1,5 +1,5 @@
 {
-    "is_notify_login_enabled": false,
+    "is_notify_login_enabled": true,
     "is_bot_in_maintenance_mode": false,
     "admins": [],
     "tag_alert_paid": true,

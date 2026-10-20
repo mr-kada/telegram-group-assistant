@@ -287,5 +287,280 @@
                 }
             }
         }
+    },
+    "6963440540": {
+        "groups": {
+            "-1004339207493": {
+                "id": -1004339207493,
+                "creator_id": 6963440540,
+                "co_founders": [],
+                "admins": [
+                    5040006968
+                ],
+                "moderators": [],
+                "cleaners": [],
+                "muters": [],
+                "helpers": [],
+                "free_users": [],
+                "rules": {
+                    "text": null,
+                    "media": null,
+                    "buttons": []
+                },
+                "welcome_message": {
+                    "is_active": false,
+                    "mode": "every_join",
+                    "delete_last_message": false,
+                    "text": null,
+                    "media": null,
+                    "buttons": []
+                },
+                "goodbye_message": {
+                    "is_active": false,
+                    "send_in_private": false,
+                    "delete_last_message": false,
+                    "text": null,
+                    "media": null,
+                    "buttons": []
+                },
+                "captcha": {
+                    "is_active": false,
+                    "penalty": "Mute",
+                    "mode": "Button",
+                    "timer": 3,
+                    "delete_service_message": false,
+                    "mode_open": false,
+                    "timer_open": false,
+                    "penalty_open": false,
+                    "editMessage_open": false,
+                    "captcha_modes": {
+                        "Button": {
+                            "text": "{MENTION}، تحقق خلال {TIMER} دقيقة لتتمكن من الكتابة في المجموعة 👇🏻",
+                            "button_text": "أزل كتم الصوت عني",
+                            "description": "سيحتاج المستخدم إلى الضغط على زر بسيط ليتم إزالة كتم الصوت عنه.."
+                        }
+                    }
+                },
+                "adminTag": {
+                    "send_to": "✖️ NoBody",
+                    "tag_founder": true,
+                    "tag_admins": false,
+                    "admins_to_tag": []
+                },
+                "allowed_media": {
+                    "duration": null,
+                    "story": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "photo": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "video": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "album": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "gif": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "voice": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "audio": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "sticker": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "animatedStickers": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "animatedGames": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "animatedEmoji": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "premiumEmoji": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "files": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "games": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "contacts": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "polls": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    },
+                    "payments": {
+                        "penalty": "Off",
+                        "delete_msg": false
+                    }
+                },
+                "warned_users": {},
+                "warn_system": {
+                    "is_active": false,
+                    "max_warns": 3,
+                    "punishment": "Mute",
+                    "duration": null
+                },
+                "tag_alert": {
+                    "is_active": false
+                },
+                "approval_mode": {
+                    "is_active": false
+                },
+                "antispam": {
+                    "penalty": "Warn",
+                    "delete_msg": false,
+                    "username_antispam": false,
+                    "bots_antispam": false,
+                    "forwarding_penalty": "Off",
+                    "forwarding_delete_msg": false,
+                    "forwarding_channels": true,
+                    "forwarding_groups": true,
+                    "forwarding_users": true,
+                    "forwarding_bots": true,
+                    "quate_penalty": "Off",
+                    "quate_delete_msg": false,
+                    "quate_channels": true,
+                    "quate_groups": true,
+                    "quate_users": true,
+                    "quate_bots": true,
+                    "total_links_penalty": "Off",
+                    "total_links_delete_msg": false
+                },
+                "antiflood": {
+                    "penalty": "Off",
+                    "delete_msg": false,
+                    "messages_target": 2,
+                    "interval_time": 5
+                },
+                "alphabets": {
+                    "penalty": "Off",
+                    "delete_msg": false,
+                    "watchArabic": false,
+                    "watchCyrillic": false,
+                    "watchChinese": false,
+                    "watchLatin": false
+                },
+                "checks": {
+                    "check_at_the_join": false,
+                    "delete_msg": false,
+                    "obligation_surname": "Off",
+                    "obligation_username": "Off",
+                    "obligation_profile_picture": "Off",
+                    "obligation_channel_obligation": "Off",
+                    "obligation_obligation_to_add": "Off",
+                    "block_arabic_name": "Off",
+                    "block_chinese_name": "Off",
+                    "block_russian_name": "Off",
+                    "block_spam_name": "Off"
+                },
+                "blocks": {
+                    "blacklist": {
+                        "penalty": "Ban"
+                    },
+                    "bot_block": {
+                        "is_active": false,
+                        "penalty": "Off"
+                    },
+                    "join_block": {
+                        "penalty": "Off",
+                        "delete_join_msg": false
+                    },
+                    "leave_block": {
+                        "penalty": "Off"
+                    },
+                    "joinLeave_block": {
+                        "penalty": "Off",
+                        "delete_service_msg": false,
+                        "delete_welcome_msg": false
+                    },
+                    "multiplejoins_block": {
+                        "penalty": "Off",
+                        "users_count": 5,
+                        "time": 3
+                    }
+                },
+                "porn": {
+                    "penalty": "Off",
+                    "delete_msg": false
+                },
+                "night_mode": {
+                    "is_active": false,
+                    "delete_medias": true,
+                    "global_silence": false,
+                    "send_advices": true,
+                    "timeSlot_start": 23,
+                    "timeSlot_end": 7,
+                    "timezone": null
+                },
+                "link": {
+                    "is_active": false,
+                    "url": "https://t.me/+DADqXCz_wodiNWQ0"
+                },
+                "banned_words": {
+                    "penalty": "Off",
+                    "delete_msg": true,
+                    "banned_words_list": []
+                },
+                "masked_users": {
+                    "is_active": false,
+                    "delete_msg": false
+                },
+                "discussion_group": {
+                    "is_active": false,
+                    "delete_msg": false,
+                    "remove_from_pin": false,
+                    "from_pin_active": false,
+                    "first_comment": false,
+                    "text": null,
+                    "media": null,
+                    "buttons": []
+                },
+                "message_length": {
+                    "penalty": "Off",
+                    "delete_msg": false,
+                    "min_length": null,
+                    "max_length": null,
+                    "min_length_open": false,
+                    "max_length_open": false
+                },
+                "group_satistics": {
+                    "users": {
+                        "6963440540": {
+                            "full_name": "Mis",
+                            "messages_count": 2
+                        },
+                        "5040006968": {
+                            "full_name": "Google Reviews",
+                            "messages_count": 4
+                        }
+                    }
+                }
+            }
+        }
     }
 }
